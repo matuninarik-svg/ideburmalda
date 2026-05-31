@@ -47,9 +47,6 @@ Pro — Claude Opus 4, GPT-4o, Gemini 2 Pro
 Python 3.10+
 Node.js 18+
 Беги
-# Клонировать
-git clone https://github.com/narelabs/sharrowkin-ide
-cd sharrowkin/ide
 
 # Серверная часть
 pip install -r requirements.txt
